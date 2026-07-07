@@ -24,7 +24,10 @@
     <link rel="stylesheet" crossorigin href="./assets/index-DRa82n55.css">
   <script>
         window.__BUILDER_DEPLOY_MODE__ = true;
-        fetch('./config.json')
+        const __lhpParts = window.location.pathname.split('/').filter(Boolean);
+        if (__lhpParts[__lhpParts.length - 1] === 'admin') __lhpParts.pop();
+        const __lhpPrefix = __lhpParts.length > 0 ? '/' + __lhpParts[0] + '/' : '/';
+        fetch(__lhpPrefix + 'config.json')
           .then(res => res.json())
           .then(data => {
             window.__PROFILE_CONFIG__ = data;
