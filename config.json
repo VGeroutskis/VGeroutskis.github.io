@@ -1,7 +1,7 @@
 {
   "adminEmail": "VGeroutskis@github.com",
   "name": {
-    "el": "Βαλεντίνος Γερούτσκυς",
+    "el": "Valentinos Geroutskis",
     "en": "Valentinos Geroutskis"
   },
   "bio": {
@@ -18,7 +18,7 @@
     "portfolio"
   ],
   "isAvailable": false,
-  "showGreeting": false,
+  "showGreeting": true,
   "showStatusBadge": false,
   "customStatusText": {
     "el": "",
@@ -27,7 +27,7 @@
   "profileImage": "https://avatars.githubusercontent.com/u/114500945?v=4",
   "favicon": "👤",
   "defaultLang": "el",
-  "defaultTheme": "neon",
+  "defaultTheme": "dark",
   "seo": {
     "title": {
       "el": "",
@@ -40,8 +40,8 @@
     "keywords": ""
   },
   "location": {
-    "el": "Αθήνα",
-    "en": "Athens"
+    "el": "",
+    "en": ""
   },
   "skillsTitle": {
     "el": "Skills",
