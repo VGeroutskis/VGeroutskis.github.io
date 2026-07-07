@@ -18,7 +18,7 @@
     "portfolio"
   ],
   "isAvailable": false,
-  "showGreeting": false,
+  "showGreeting": true,
   "showStatusBadge": false,
   "customStatusText": {
     "el": "",
