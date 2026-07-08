@@ -66,6 +66,7 @@
   "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
   "googleAnalyticsId": "G-L0287XPBJS",
   "googleClientId": "919758513943-ul97as8878h6vv9b4iaviihirtv28kpr.apps.googleusercontent.com",
+  "resendApiKey": "",
   "links": [
     {
       "url": "https://www.instagram.com/valentinosgr",
@@ -84,7 +85,15 @@
       "external": true
     },
     {
-      "url": "",
+      "url": "https://www.github.com/vgeroutskis",
+      "icon": "fab fa-github",
+      "cssClass": "github",
+      "langKey": "github",
+      "tooltipKey": "tooltip-github",
+      "external": true
+    },
+    {
+      "url": "https://",
       "icon": "fa-solid fa-address-card",
       "cssClass": "vcard",
       "langKey": "save-contact",
