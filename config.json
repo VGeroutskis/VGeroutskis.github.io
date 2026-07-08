@@ -9,6 +9,7 @@
     "en": ""
   },
   "siteUrl": "",
+  "templateId": "classic",
   "layout": [
     "profile",
     "links",
@@ -17,17 +18,17 @@
     "github",
     "portfolio"
   ],
-  "isAvailable": false,
+  "isAvailable": true,
   "showGreeting": false,
-  "showStatusBadge": false,
+  "showStatusBadge": true,
   "customStatusText": {
     "el": "",
     "en": ""
   },
   "profileImage": "https://avatars.githubusercontent.com/u/114500945?v=4",
   "favicon": "👤",
-  "defaultLang": "el",
-  "defaultTheme": "dark",
+  "defaultLang": "en",
+  "defaultTheme": "neon",
   "seo": {
     "title": {
       "el": "",
@@ -65,5 +66,6 @@
   "calendlyUrl": "",
   "googleAnalyticsId": "",
   "googleClientId": "",
+  "resendApiKey": "",
   "links": []
 }
