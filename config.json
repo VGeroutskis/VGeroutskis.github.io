@@ -1,22 +1,22 @@
 {
   "adminEmail": "VGeroutskis@github.com",
   "name": {
-    "el": "Valentinos Geroutskis",
+    "el": "Βαλεντίνος Γερούτσκυς",
     "en": "Valentinos Geroutskis"
   },
   "bio": {
-    "el": "",
-    "en": ""
+    "el": "Μηχανικός Λογισμικού",
+    "en": "Software Engineer"
   },
   "siteUrl": "",
   "templateId": "classic",
   "layout": [
     "profile",
-    "links",
     "actions",
     "techstack",
+    "portfolio",
     "github",
-    "portfolio"
+    "links"
   ],
   "isAvailable": true,
   "showGreeting": false,
@@ -28,7 +28,7 @@
   "profileImage": "https://avatars.githubusercontent.com/u/114500945?v=4",
   "favicon": "👤",
   "defaultLang": "el",
-  "defaultTheme": "dark",
+  "defaultTheme": "neon",
   "seo": {
     "title": {
       "el": "",
@@ -41,8 +41,8 @@
     "keywords": ""
   },
   "location": {
-    "el": "",
-    "en": ""
+    "el": "Αθήνα",
+    "en": "Athens"
   },
   "skillsTitle": {
     "el": "Skills",
@@ -63,9 +63,34 @@
     "reposCount": 0
   },
   "contactEmail": "VGeroutskis@github.com",
-  "calendlyUrl": "",
-  "googleAnalyticsId": "",
-  "googleClientId": "",
-  "resendApiKey": "",
-  "links": []
+  "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
+  "googleAnalyticsId": "G-L0287XPBJS",
+  "googleClientId": "919758513943-ul97as8878h6vv9b4iaviihirtv28kpr.apps.googleusercontent.com",
+  "links": [
+    {
+      "url": "https://www.instagram.com/valentinosgr",
+      "icon": "fab fa-instagram",
+      "cssClass": "instagram",
+      "langKey": "instagram",
+      "tooltipKey": "tooltip-instagram",
+      "external": true
+    },
+    {
+      "url": "https://www.linkedin.com/in/valentinos-geroutskis",
+      "icon": "fab fa-linkedin",
+      "cssClass": "linkedin",
+      "langKey": "linkedin",
+      "tooltipKey": "tooltip-linkedin",
+      "external": true
+    },
+    {
+      "url": "",
+      "icon": "fa-solid fa-address-card",
+      "cssClass": "vcard",
+      "langKey": "save-contact",
+      "tooltipKey": "tooltip-vcard",
+      "external": false,
+      "action": "vcard"
+    }
+  ]
 }
