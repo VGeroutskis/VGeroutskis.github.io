@@ -1,34 +1,34 @@
 {
   "adminEmail": "VGeroutskis@github.com",
   "name": {
-    "el": "Βαλεντίνος Γερούτσκυς",
+    "el": "Valentinos Geroutskis",
     "en": "Valentinos Geroutskis"
   },
   "bio": {
-    "el": "Μηχανικός Λογισμικού",
-    "en": "Software Engineer"
+    "el": "",
+    "en": ""
   },
   "siteUrl": "",
   "templateId": "classic",
   "layout": [
     "profile",
+    "links",
     "actions",
     "techstack",
-    "portfolio",
     "github",
-    "links"
+    "portfolio"
   ],
-  "isAvailable": true,
-  "showGreeting": false,
-  "showStatusBadge": true,
+  "isAvailable": false,
+  "showGreeting": true,
+  "showStatusBadge": false,
   "customStatusText": {
     "el": "",
     "en": ""
   },
-  "profileImage": "https://avatars.githubusercontent.com/u/114500945?v=4",
+  "profileImage": "https://lh3.googleusercontent.com/a/ACg8ocKdFUz-edUT6XwUtUXgnyZP4AUee3-BNT-Wg0kgvJ15lcnRLg=s96-c",
   "favicon": "👤",
   "defaultLang": "el",
-  "defaultTheme": "neon",
+  "defaultTheme": "dark",
   "seo": {
     "title": {
       "el": "",
@@ -41,8 +41,8 @@
     "keywords": ""
   },
   "location": {
-    "el": "Αθήνα",
-    "en": "Athens"
+    "el": "",
+    "en": ""
   },
   "skillsTitle": {
     "el": "Skills",
@@ -56,50 +56,15 @@
   "availableFromDate": "",
   "statusIncludeDates": "",
   "statusExcludeDates": "",
-  "githubUsername": "VGeroutskis",
+  "githubUsername": "",
   "githubRepoUrl": "",
   "githubStatsFallback": {
     "followers": 0,
     "reposCount": 0
   },
-  "contactEmail": "VGeroutskis@github.com",
-  "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
-  "googleAnalyticsId": "G-L0287XPBJS",
-  "googleClientId": "919758513943-ul97as8878h6vv9b4iaviihirtv28kpr.apps.googleusercontent.com",
-  "resendApiKey": "",
-  "links": [
-    {
-      "url": "https://www.instagram.com/valentinosgr",
-      "icon": "fab fa-instagram",
-      "cssClass": "instagram",
-      "langKey": "instagram",
-      "tooltipKey": "tooltip-instagram",
-      "external": true
-    },
-    {
-      "url": "https://www.linkedin.com/in/valentinos-geroutskis",
-      "icon": "fab fa-linkedin",
-      "cssClass": "linkedin",
-      "langKey": "linkedin",
-      "tooltipKey": "tooltip-linkedin",
-      "external": true
-    },
-    {
-      "url": "https://www.github.com/vgeroutskis",
-      "icon": "fab fa-github",
-      "cssClass": "github",
-      "langKey": "github",
-      "tooltipKey": "tooltip-github",
-      "external": true
-    },
-    {
-      "url": "https://",
-      "icon": "fa-solid fa-address-card",
-      "cssClass": "vcard",
-      "langKey": "save-contact",
-      "tooltipKey": "tooltip-vcard",
-      "external": false,
-      "action": "vcard"
-    }
-  ]
+  "contactEmail": "v.geroutskis@gmail.com",
+  "calendlyUrl": "",
+  "googleAnalyticsId": "",
+  "googleClientId": "",
+  "links": []
 }
