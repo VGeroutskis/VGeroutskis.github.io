@@ -8,7 +8,7 @@
     "el": "Μηχανικός Λογισμικού",
     "en": "Software Engineer"
   },
-  "siteUrl": "https://vgeroutskis.github.io",
+  "siteUrl": "",
   "templateId": "developer",
   "layout": [
     "profile",
@@ -68,6 +68,9 @@
     "viewCount": 0
   },
   "contactEmail": "v.geroutskis@gmail.com",
+  "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
+  "googleAnalyticsId": "G-3975PTPNYY",
+  "googleClientId": "919758513943-ul97as8878h6vv9b4iaviihirtv28kpr.apps.googleusercontent.com",
   "links": [
     {
       "url": "https://www.instagram.com/valentinosgr",
