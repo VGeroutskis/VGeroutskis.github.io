@@ -1,5 +1,5 @@
 {
-  "adminEmail": "VGeroutskis@github.com",
+  "adminEmail": "v.geroutskis@gmail.com",
   "name": {
     "el": "Βαλεντίνος Γερούτσκυς",
     "en": "Valentinos Geroutskis"
@@ -9,7 +9,7 @@
     "en": "Software Engineer"
   },
   "siteUrl": "",
-  "templateId": "classic",
+  "templateId": "developer",
   "layout": [
     "profile",
     "actions",
