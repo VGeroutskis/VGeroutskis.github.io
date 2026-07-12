@@ -52,6 +52,10 @@
     "el": "Projects",
     "en": "Projects"
   },
+  "youtubeVideosTitle": {
+    "el": "",
+    "en": ""
+  },
   "timezone": "Europe/Athens",
   "availableFromDate": "",
   "statusIncludeDates": "",
