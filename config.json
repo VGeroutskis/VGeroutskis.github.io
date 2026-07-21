@@ -8,7 +8,7 @@
     "el": "Μηχανικός Λογισμικού",
     "en": "Software Engineer"
   },
-  "siteUrl": "https://vgeroutskis.github.io",
+  "siteUrl": "",
   "templateId": "developer",
   "layout": [
     "profile",
@@ -16,7 +16,9 @@
     "techstack",
     "github",
     "portfolio",
-    "links"
+    "links",
+    "youtube",
+    "youtube-videos"
   ],
   "isAvailable": true,
   "showGreeting": false,
@@ -66,7 +68,7 @@
     "followers": 0,
     "reposCount": 0
   },
-  "youtubeChannelId": "",
+  "youtubeChannelId": "UCqBh_P57kiswFVWBS_rQ0zg",
   "youtubeStatsFallback": {
     "subscriberCount": 0,
     "viewCount": 0
