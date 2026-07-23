@@ -8,7 +8,7 @@
     "el": "Μηχανικός Λογισμικού",
     "en": "Software Engineer"
   },
-  "siteUrl": "",
+  "siteUrl": "https://vgeroutskis.github.io",
   "templateId": "developer",
   "layout": [
     "profile",
@@ -29,6 +29,7 @@
   "favicon": "👤",
   "defaultLang": "en",
   "defaultTheme": "neon",
+  "background": "glow",
   "seo": {
     "title": {
       "el": "",
@@ -128,6 +129,5 @@
         "en": ""
       }
     }
-  ],
-  "background": "mesh"
+  ]
 }
