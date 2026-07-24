@@ -8,7 +8,7 @@
     "el": "Μηχανικός Λογισμικού",
     "en": "Software Engineer"
   },
-  "siteUrl": "https://vgeroutskis.github.io",
+  "siteUrl": "",
   "templateId": "developer",
   "layout": [
     "profile",
@@ -29,7 +29,6 @@
   "favicon": "👤",
   "defaultLang": "en",
   "defaultTheme": "neon",
-  "background": "nebula",
   "seo": {
     "title": {
       "el": "",
@@ -72,10 +71,6 @@
     "subscriberCount": 0,
     "viewCount": 0
   },
-  "youtubeStatsMode": "auto",
-  "youtubeStatsSnapshot": null,
-  "githubStatsMode": "auto",
-  "githubStatsSnapshot": "{\"followers\":5,\"reposCount\":15,\"stars\":6,\"topLanguage\":\"Python\",\"languageCount\":8,\"projects\":[{\"name\":\"kerio-vpn-extension\",\"description\":\"GNOME Shell extension for Kerio Control VPN Client with auto-connect, connection info, and password-free operation\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-extension\",\"stars\":2,\"language\":\"JavaScript\",\"size\":24},{\"name\":\"qrgenerator\",\"description\":\"Ένα ανεξάρτητο, pure‑Python εργαλείο για δημιουργία QR codes με υποστήριξη ειδικών φορμών (vCard, Wi‑Fi, geo, mailto, bitcoin κ.ά.) και δυνατότητα εξαγωγής σε SVG ή προβολής σε ASCII.\",\"url\":\"https://github.com/VGeroutskis/qrgenerator\",\"stars\":2,\"language\":\"Python\",\"size\":23},{\"name\":\"kerio-rpm\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/kerio-rpm\",\"stars\":1,\"language\":\"Python\",\"size\":54},{\"name\":\"credit-card-analyzer\",\"description\":\"A robust Python CLI tool for validating and analyzing credit card numbers. Features Luhn algorithm validation, card type detection, and detailed issuer information (Bank, Country, Type) using a hybrid approach (Local SQLite DB + Online Fallback).\",\"url\":\"https://github.com/VGeroutskis/credit-card-analyzer\",\"stars\":1,\"language\":\"Python\",\"size\":7},{\"name\":\"VGeroutskis.github.io\",\"description\":\"My LinkHubPage Profile\",\"url\":\"https://github.com/VGeroutskis/VGeroutskis.github.io\",\"stars\":0,\"language\":\"HTML\",\"size\":5449},{\"name\":\"amiibo\",\"description\":\"Amiibo .bin and .nfc database\",\"url\":\"https://github.com/VGeroutskis/amiibo\",\"stars\":0,\"language\":null,\"size\":2532},{\"name\":\"workflows-starter-template\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/workflows-starter-template\",\"stars\":0,\"language\":\"TypeScript\",\"size\":481},{\"name\":\"kerio-vpn-indicator\",\"description\":\"A universal system tray indicator for **Kerio Control VPN Client** that works across all major Linux desktop environments.\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-indicator\",\"stars\":0,\"language\":\"Python\",\"size\":73},{\"name\":\"nordvpn_wireguard_conf\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/nordvpn_wireguard_conf\",\"stars\":0,\"language\":\"JavaScript\",\"size\":36},{\"name\":\"django_swapi\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/django_swapi\",\"stars\":0,\"language\":\"Python\",\"size\":34},{\"name\":\"MailSender\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MailSender\",\"stars\":0,\"language\":\"Python\",\"size\":5},{\"name\":\"RealEstate\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/RealEstate\",\"stars\":0,\"language\":\"PHP\",\"size\":86},{\"name\":\"MealPlan\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MealPlan\",\"stars\":0,\"language\":\"Ruby\",\"size\":63},{\"name\":\"HelloSev\",\"description\":\"My First Repo\",\"url\":\"https://github.com/VGeroutskis/HelloSev\",\"stars\":0,\"language\":\"Java\",\"size\":5},{\"name\":\"FinalProject\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/FinalProject\",\"stars\":0,\"language\":\"CSS\",\"size\":1905}]}",
   "contactEmail": "v.geroutskis@gmail.com",
   "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
   "googleAnalyticsId": "G-3975PTPNYY",
@@ -133,5 +128,8 @@
         "en": ""
       }
     }
-  ]
+  ],
+  "background": "nebula",
+  "githubStatsMode": "manual",
+  "githubStatsSnapshot": "{\"followers\":5,\"reposCount\":25,\"privateReposCount\":8,\"stars\":6,\"topLanguage\":\"Python\",\"languageCount\":8,\"projects\":[{\"name\":\"kerio-vpn-extension\",\"description\":\"GNOME Shell extension for Kerio Control VPN Client with auto-connect, connection info, and password-free operation\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-extension\",\"stars\":2,\"language\":\"JavaScript\",\"size\":24},{\"name\":\"qrgenerator\",\"description\":\"Ένα ανεξάρτητο, pure‑Python εργαλείο για δημιουργία QR codes με υποστήριξη ειδικών φορμών (vCard, Wi‑Fi, geo, mailto, bitcoin κ.ά.) και δυνατότητα εξαγωγής σε SVG ή προβολής σε ASCII.\",\"url\":\"https://github.com/VGeroutskis/qrgenerator\",\"stars\":2,\"language\":\"Python\",\"size\":23},{\"name\":\"kerio-rpm\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/kerio-rpm\",\"stars\":1,\"language\":\"Python\",\"size\":54},{\"name\":\"credit-card-analyzer\",\"description\":\"A robust Python CLI tool for validating and analyzing credit card numbers. Features Luhn algorithm validation, card type detection, and detailed issuer information (Bank, Country, Type) using a hybrid approach (Local SQLite DB + Online Fallback).\",\"url\":\"https://github.com/VGeroutskis/credit-card-analyzer\",\"stars\":1,\"language\":\"Python\",\"size\":7},{\"name\":\"VGeroutskis.github.io\",\"description\":\"My LinkHubPage Profile\",\"url\":\"https://github.com/VGeroutskis/VGeroutskis.github.io\",\"stars\":0,\"language\":\"HTML\",\"size\":5449},{\"name\":\"amiibo\",\"description\":\"Amiibo .bin and .nfc database\",\"url\":\"https://github.com/VGeroutskis/amiibo\",\"stars\":0,\"language\":null,\"size\":2532},{\"name\":\"workflows-starter-template\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/workflows-starter-template\",\"stars\":0,\"language\":\"TypeScript\",\"size\":481},{\"name\":\"kerio-vpn-indicator\",\"description\":\"A universal system tray indicator for **Kerio Control VPN Client** that works across all major Linux desktop environments.\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-indicator\",\"stars\":0,\"language\":\"Python\",\"size\":73},{\"name\":\"nordvpn_wireguard_conf\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/nordvpn_wireguard_conf\",\"stars\":0,\"language\":\"JavaScript\",\"size\":36},{\"name\":\"django_swapi\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/django_swapi\",\"stars\":0,\"language\":\"Python\",\"size\":34},{\"name\":\"MailSender\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MailSender\",\"stars\":0,\"language\":\"Python\",\"size\":5},{\"name\":\"RealEstate\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/RealEstate\",\"stars\":0,\"language\":\"PHP\",\"size\":86},{\"name\":\"MealPlan\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MealPlan\",\"stars\":0,\"language\":\"Ruby\",\"size\":63},{\"name\":\"HelloSev\",\"description\":\"My First Repo\",\"url\":\"https://github.com/VGeroutskis/HelloSev\",\"stars\":0,\"language\":\"Java\",\"size\":5},{\"name\":\"FinalProject\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/FinalProject\",\"stars\":0,\"language\":\"CSS\",\"size\":1905}]}"
 }
