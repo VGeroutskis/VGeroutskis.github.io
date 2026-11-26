@@ -24,7 +24,7 @@
     "education",
     "certifications"
   ],
-  "isAvailable": true,
+  "isAvailable": false,
   "showGreeting": false,
   "showStatusBadge": true,
   "customStatusText": {
