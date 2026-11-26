@@ -5,8 +5,8 @@
     "en": "Valentinos Geroutskis"
   },
   "bio": {
-    "el": "Μηχανικός Λογισμικού",
-    "en": "Software Engineer"
+    "el": "AI Engineer",
+    "en": "AI Engineer"
   },
   "siteUrl": "",
   "templateId": "developer",
@@ -16,7 +16,13 @@
     "techstack",
     "github",
     "portfolio",
-    "links"
+    "links",
+    "about",
+    "experience",
+    "projects",
+    "skills-grouped",
+    "education",
+    "certifications"
   ],
   "isAvailable": true,
   "showGreeting": false,
@@ -29,6 +35,381 @@
   "favicon": "👤",
   "defaultLang": "en",
   "defaultTheme": "neon",
+  "background": "starfield",
+  "resume": {
+    "about": {
+      "el": "AI Engineer στη Satori Analytics, με υπόβαθρο backend σε Python και Django. Τα προηγούμενα 3,5 χρόνια στην Cognitera έφτιαχνα λογισμικό για τον αγροτικό τομέα και τον δημόσιο τομέα, από developer μέχρι Lead Software Engineer με δική μου ομάδα. Πριν το λογισμικό δούλεψα 9 χρόνια ως χειριστής CNC.",
+      "en": "AI Engineer at Satori Analytics with a backend background in Python and Django. Spent 3.5 years at Cognitera building software for agriculture and the public sector, growing from developer to Lead Software Engineer leading a team. Before software, 9 years as a CNC machinist."
+    },
+    "cvUrl": "",
+    "experience": [
+      {
+        "company": "Satori Analytics",
+        "companyUrl": "https://satorianalytics.com",
+        "location": {
+          "el": "Αθήνα",
+          "en": "Athens"
+        },
+        "roles": [
+          {
+            "title": {
+              "el": "AI Engineer",
+              "en": "AI Engineer"
+            },
+            "employmentType": "Full-time",
+            "start": "2026-11",
+            "end": ""
+          }
+        ]
+      },
+      {
+        "company": "Cognitera",
+        "location": {
+          "el": "Αθήνα",
+          "en": "Athens"
+        },
+        "roles": [
+          {
+            "title": {
+              "el": "Lead Software Engineer",
+              "en": "Lead Software Engineer"
+            },
+            "employmentType": "Full-time",
+            "start": "2025-02",
+            "end": "2026-07",
+            "bullets": {
+              "el": [
+                "Επικεφαλής ομάδας 3 developers: ανάθεση και παρακολούθηση εργασιών, εβδομαδιαίος προγραμματισμός, code review και mentoring",
+                "Συντήρηση και νέα features στην κεντρική πλατφόρμα της εταιρείας: συγχρονισμός αιτήσεων, διορθώσεις δεδομένων, τιμολόγηση με βάση τη χρήση",
+                "Ενσωματώσεις με web services του δημόσιου τομέα (SOAP/REST) και με τράπεζες για αρχεία πάγιων εντολών"
+              ],
+              "en": [
+                "Led a team of 3 developers: task assignment and tracking, weekly planning, code review and mentoring",
+                "Maintained and extended the company's core platform: application sync, data fixes and usage-based invoicing",
+                "Integrated public-sector web services (SOAP/REST) and banks for direct-debit files"
+              ]
+            },
+            "skills": [
+              "Python",
+              "Django",
+              "DRF",
+              "PostgreSQL",
+              "Docker",
+              "CI/CD",
+              "Code Review",
+              "Team Leadership"
+            ]
+          },
+          {
+            "title": {
+              "el": "Software Engineer",
+              "en": "Software Engineer"
+            },
+            "employmentType": "Full-time",
+            "start": "2024-02",
+            "end": "2025-02",
+            "bullets": {
+              "el": [
+                "Features και διορθώσεις σε πληροφοριακό σύστημα δημόσιου φορέα (συμβάσεις, τροποποιήσεις, help desk) και κύρια τεχνική επαφή με τον πελάτη",
+                "Django/DRF υπηρεσία αδειοδότησης με Keycloak, τεκμηρίωση Swagger και παραγωγή PDF",
+                "Code review σε merge requests στο GitLab"
+              ],
+              "en": [
+                "Features and fixes for a public-sector information system (contracts, amendments, help desk); main technical contact with the client",
+                "Django/DRF licensing service with Keycloak authentication, Swagger docs and PDF generation",
+                "Reviewed merge requests on GitLab"
+              ]
+            },
+            "skills": [
+              "Python",
+              "Django",
+              "DRF",
+              "PostgreSQL",
+              "Keycloak",
+              "Docker",
+              "GitLab CI"
+            ]
+          },
+          {
+            "title": {
+              "el": "Software Developer",
+              "en": "Software Developer"
+            },
+            "employmentType": "Full-time",
+            "start": "2023-02",
+            "end": "2024-02",
+            "bullets": {
+              "el": [
+                "Backend, rules engine και ενσωμάτωση με API δημόσιου φορέα σε Django/DRF εφαρμογή για κέντρα υποβολής αγροτικών αιτήσεων",
+                "Endpoints και διασταυρωτικοί έλεγχοι για API αγροτικών ενισχύσεων, και υπηρεσία αναφορών με έξοδο JSON/HTML/PDF/XLSX",
+                "Εξαγωγή αρχείων πάγιων εντολών για τράπεζες"
+              ],
+              "en": [
+                "Backend, rules engine and public-sector API integration for a Django/DRF app used by agricultural application centers",
+                "Endpoints and cross-checks for an agricultural subsidy API, plus a reporting service with JSON/HTML/PDF/XLSX output",
+                "Direct-debit file exports for banks"
+              ]
+            },
+            "skills": [
+              "Python",
+              "Django",
+              "DRF",
+              "PostgreSQL",
+              "REST APIs"
+            ]
+          }
+        ]
+      },
+      {
+        "company": "Epi Systems",
+        "compact": true,
+        "roles": [
+          {
+            "title": {
+              "el": "PHP Developer",
+              "en": "PHP Developer"
+            },
+            "employmentType": "Internship",
+            "start": "2022-07",
+            "end": "2022-11"
+          }
+        ]
+      },
+      {
+        "company": "OTE Group",
+        "compact": true,
+        "roles": [
+          {
+            "title": {
+              "el": "IT Service Desk Agent",
+              "en": "IT Service Desk Agent"
+            },
+            "employmentType": "Internship",
+            "start": "2022-05",
+            "end": "2022-05"
+          }
+        ]
+      },
+      {
+        "company": "Aboutnet",
+        "compact": true,
+        "roles": [
+          {
+            "title": {
+              "el": "WordPress Developer",
+              "en": "WordPress Developer"
+            },
+            "employmentType": "Internship",
+            "start": "2022-01",
+            "end": "2022-04"
+          }
+        ]
+      },
+      {
+        "company": "Dynotech Performance",
+        "compact": true,
+        "roles": [
+          {
+            "title": {
+              "el": "Χειριστής CNC",
+              "en": "CNC Machinist"
+            },
+            "employmentType": "Full-time",
+            "start": "2020-10",
+            "end": "2021-10"
+          }
+        ]
+      },
+      {
+        "company": "Bazigos S.A.",
+        "compact": true,
+        "roles": [
+          {
+            "title": {
+              "el": "Χειριστής CNC",
+              "en": "CNC Machinist"
+            },
+            "employmentType": "Full-time",
+            "start": "2012-06",
+            "end": "2020-09"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "LinkHubPage",
+        "url": "https://linkhubpage.com",
+        "description": {
+          "el": "Πλατφόρμα link-in-bio που έφτιαξα μόνος μου. Ο χρήστης μπορεί να κάνει export το site του και να το φιλοξενήσει στο δικό του GitHub Pages ή Cloudflare.",
+          "en": "Multi-tenant link-in-bio platform I built solo. Users can export a self-hosted copy of their site to their own GitHub Pages or Cloudflare account."
+        },
+        "tags": [
+          "React",
+          "TypeScript",
+          "Cloudflare Workers",
+          "D1",
+          "OAuth 2.0"
+        ],
+        "private": true
+      },
+      {
+        "title": "Dobble Multiplayer",
+        "url": "https://dobble.geroutskis.com",
+        "description": {
+          "el": "Online multiplayer εκδοχή του επιτραπέζιου Dobble.",
+          "en": "Online multiplayer version of the Dobble card game."
+        },
+        "tags": [
+          "Multiplayer",
+          "Web"
+        ],
+        "private": true
+      },
+      {
+        "title": "Cafe Order App",
+        "url": "https://cafeorderapp.geroutskis.com",
+        "description": {
+          "el": "Εφαρμογή παραγγελιών για take-away καφέ.",
+          "en": "Ordering app for a take-away coffee shop."
+        },
+        "tags": [
+          "Web"
+        ],
+        "private": true
+      },
+      {
+        "title": "kerio-vpn-extension",
+        "repoUrl": "https://github.com/VGeroutskis/kerio-vpn-extension",
+        "description": {
+          "el": "GNOME Shell extension για τον Kerio Control VPN client με auto-connect.",
+          "en": "GNOME Shell extension for the Kerio Control VPN client with auto-connect."
+        },
+        "tags": [
+          "JavaScript",
+          "GNOME"
+        ]
+      }
+    ],
+    "skillGroups": [
+      {
+        "title": {
+          "el": "Προχωρημένο επίπεδο",
+          "en": "Advanced"
+        },
+        "skills": [
+          "Python",
+          "Django",
+          "Django REST Framework",
+          "PostgreSQL",
+          "SQL",
+          "Docker",
+          "Git"
+        ]
+      },
+      {
+        "title": {
+          "el": "Καλό επίπεδο",
+          "en": "Working knowledge"
+        },
+        "skills": [
+          "Celery",
+          "Redis",
+          "PostGIS",
+          "pytest",
+          "Keycloak",
+          "SOAP/REST",
+          "CI/CD",
+          "TypeScript",
+          "React",
+          "Cloudflare Workers"
+        ]
+      },
+      {
+        "title": {
+          "el": "Βασικό επίπεδο",
+          "en": "Basic"
+        },
+        "skills": [
+          "PHP",
+          "Laravel",
+          "Java",
+          "C#"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Πανεπιστήμιο Δυτικής Αττικής",
+        "degree": {
+          "el": "Προπτυχιακό (φοιτητής)",
+          "en": "Bachelor's Degree (student)"
+        },
+        "field": {
+          "el": "Μηχανικοί Πληροφορικής και Υπολογιστών",
+          "en": "Informatics and Computer Engineering"
+        },
+        "start": "2024",
+        "end": "",
+        "schoolEn": "University of West Attica"
+      },
+      {
+        "school": "ΙΕΚ Δέλτα",
+        "degree": {
+          "el": "Δίπλωμα",
+          "en": "Diploma"
+        },
+        "field": {
+          "el": "Τεχνικός Λογισμικού",
+          "en": "Software Technician"
+        },
+        "start": "2019-10",
+        "end": "2022-11",
+        "note": {
+          "el": "Πρακτική σε Aboutnet, ΟΤΕ και Epi Systems (2022)",
+          "en": "Practical training at Aboutnet, OTE Group and Epi Systems (2022)"
+        },
+        "schoolEn": "IEK Delta"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Artificial Intelligence for Business Empowerment",
+        "issuer": "UCERT",
+        "date": "2026-06"
+      },
+      {
+        "name": "AI Data Science Summer School",
+        "issuer": "Workearly",
+        "date": "2025-10"
+      },
+      {
+        "name": "AI Webinar Series (3 webinars)",
+        "issuer": "SEV & Grow with Google",
+        "date": "2024-10"
+      },
+      {
+        "name": "Mind the Code 3",
+        "issuer": "Quest",
+        "date": "2023-04"
+      },
+      {
+        "name": "Skills4Jobs for IT Application Technicians",
+        "issuer": "SEV & ReGeneration",
+        "date": "2022-11"
+      }
+    ]
+  },
+  "display": {
+    "techstackMinPercent": 1,
+    "excludeForks": true,
+    "hiddenRepos": [
+      "amiibo",
+      "curl"
+    ],
+    "hideUnconfiguredActions": false,
+    "resumeView": "journey"
+  },
   "seo": {
     "title": {
       "el": "",
@@ -45,8 +426,8 @@
     "en": "Athens"
   },
   "skillsTitle": {
-    "el": "Skills",
-    "en": "Skills"
+    "el": "Tech stack",
+    "en": "Tech stack"
   },
   "portfolioTitle": {
     "el": "Projects",
@@ -69,8 +450,13 @@
   "youtubeChannelId": "UCqBh_P57kiswFVWBS_rQ0zg",
   "youtubeStatsFallback": {
     "subscriberCount": 0,
-    "viewCount": 0
+    "viewCount": 0,
+    "videoCount": 0
   },
+  "githubStatsMode": "manual",
+  "youtubeStatsMode": "auto",
+  "githubStatsSnapshot": "{\"followers\":5,\"reposCount\":25,\"privateReposCount\":8,\"stars\":6,\"topLanguage\":\"Python\",\"languageCount\":8,\"projects\":[{\"name\":\"kerio-vpn-extension\",\"description\":\"GNOME Shell extension for Kerio Control VPN Client with auto-connect, connection info, and password-free operation\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-extension\",\"stars\":2,\"language\":\"JavaScript\",\"size\":24},{\"name\":\"qrgenerator\",\"description\":\"Ένα ανεξάρτητο, pure‑Python εργαλείο για δημιουργία QR codes με υποστήριξη ειδικών φορμών (vCard, Wi‑Fi, geo, mailto, bitcoin κ.ά.) και δυνατότητα εξαγωγής σε SVG ή προβολής σε ASCII.\",\"url\":\"https://github.com/VGeroutskis/qrgenerator\",\"stars\":2,\"language\":\"Python\",\"size\":23},{\"name\":\"kerio-rpm\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/kerio-rpm\",\"stars\":1,\"language\":\"Python\",\"size\":54},{\"name\":\"credit-card-analyzer\",\"description\":\"A robust Python CLI tool for validating and analyzing credit card numbers. Features Luhn algorithm validation, card type detection, and detailed issuer information (Bank, Country, Type) using a hybrid approach (Local SQLite DB + Online Fallback).\",\"url\":\"https://github.com/VGeroutskis/credit-card-analyzer\",\"stars\":1,\"language\":\"Python\",\"size\":7},{\"name\":\"VGeroutskis.github.io\",\"description\":\"My LinkHubPage Profile\",\"url\":\"https://github.com/VGeroutskis/VGeroutskis.github.io\",\"stars\":0,\"language\":\"HTML\",\"size\":5935},{\"name\":\"amiibo\",\"description\":\"Amiibo .bin and .nfc database\",\"url\":\"https://github.com/VGeroutskis/amiibo\",\"stars\":0,\"language\":null,\"size\":2532},{\"name\":\"workflows-starter-template\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/workflows-starter-template\",\"stars\":0,\"language\":\"TypeScript\",\"size\":481},{\"name\":\"kerio-vpn-indicator\",\"description\":\"A universal system tray indicator for **Kerio Control VPN Client** that works across all major Linux desktop environments.\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-indicator\",\"stars\":0,\"language\":\"Python\",\"size\":73},{\"name\":\"nordvpn_wireguard_conf\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/nordvpn_wireguard_conf\",\"stars\":0,\"language\":\"JavaScript\",\"size\":36},{\"name\":\"django_swapi\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/django_swapi\",\"stars\":0,\"language\":\"Python\",\"size\":34},{\"name\":\"MailSender\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MailSender\",\"stars\":0,\"language\":\"Python\",\"size\":5},{\"name\":\"RealEstate\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/RealEstate\",\"stars\":0,\"language\":\"PHP\",\"size\":86},{\"name\":\"MealPlan\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MealPlan\",\"stars\":0,\"language\":\"Ruby\",\"size\":63},{\"name\":\"HelloSev\",\"description\":\"My First Repo\",\"url\":\"https://github.com/VGeroutskis/HelloSev\",\"stars\":0,\"language\":\"Java\",\"size\":5},{\"name\":\"FinalProject\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/FinalProject\",\"stars\":0,\"language\":\"CSS\",\"size\":1905}],\"skills\":[{\"name\":\"Python\",\"percentage\":92.36068849108383},{\"name\":\"HTML\",\"percentage\":3.4074337746443293},{\"name\":\"TypeScript\",\"percentage\":3.015306181033196},{\"name\":\"CSS\",\"percentage\":1.0937087347426198},{\"name\":\"PHP\",\"percentage\":0.04937477752643847},{\"name\":\"Ruby\",\"percentage\":0.03616989516471655},{\"name\":\"JavaScript\",\"percentage\":0.03444751920449196},{\"name\":\"Java\",\"percentage\":0.0028706266003743295}]}",
+  "youtubeStatsSnapshot": null,
   "contactEmail": "v.geroutskis@gmail.com",
   "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
   "googleAnalyticsId": "G-3975PTPNYY",
@@ -116,7 +502,7 @@
       }
     },
     {
-      "url": "https://",
+      "url": "#",
       "icon": "fa-solid fa-address-card",
       "cssClass": "vcard",
       "langKey": "save-contact",
@@ -128,8 +514,5 @@
         "en": ""
       }
     }
-  ],
-  "background": "starfield",
-  "githubStatsMode": "manual",
-  "githubStatsSnapshot": "{\"followers\":5,\"reposCount\":25,\"privateReposCount\":8,\"stars\":6,\"topLanguage\":\"Python\",\"languageCount\":8,\"projects\":[{\"name\":\"kerio-vpn-extension\",\"description\":\"GNOME Shell extension for Kerio Control VPN Client with auto-connect, connection info, and password-free operation\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-extension\",\"stars\":2,\"language\":\"JavaScript\",\"size\":24},{\"name\":\"qrgenerator\",\"description\":\"Ένα ανεξάρτητο, pure‑Python εργαλείο για δημιουργία QR codes με υποστήριξη ειδικών φορμών (vCard, Wi‑Fi, geo, mailto, bitcoin κ.ά.) και δυνατότητα εξαγωγής σε SVG ή προβολής σε ASCII.\",\"url\":\"https://github.com/VGeroutskis/qrgenerator\",\"stars\":2,\"language\":\"Python\",\"size\":23},{\"name\":\"kerio-rpm\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/kerio-rpm\",\"stars\":1,\"language\":\"Python\",\"size\":54},{\"name\":\"credit-card-analyzer\",\"description\":\"A robust Python CLI tool for validating and analyzing credit card numbers. Features Luhn algorithm validation, card type detection, and detailed issuer information (Bank, Country, Type) using a hybrid approach (Local SQLite DB + Online Fallback).\",\"url\":\"https://github.com/VGeroutskis/credit-card-analyzer\",\"stars\":1,\"language\":\"Python\",\"size\":7},{\"name\":\"VGeroutskis.github.io\",\"description\":\"My LinkHubPage Profile\",\"url\":\"https://github.com/VGeroutskis/VGeroutskis.github.io\",\"stars\":0,\"language\":\"HTML\",\"size\":5935},{\"name\":\"amiibo\",\"description\":\"Amiibo .bin and .nfc database\",\"url\":\"https://github.com/VGeroutskis/amiibo\",\"stars\":0,\"language\":null,\"size\":2532},{\"name\":\"workflows-starter-template\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/workflows-starter-template\",\"stars\":0,\"language\":\"TypeScript\",\"size\":481},{\"name\":\"kerio-vpn-indicator\",\"description\":\"A universal system tray indicator for **Kerio Control VPN Client** that works across all major Linux desktop environments.\",\"url\":\"https://github.com/VGeroutskis/kerio-vpn-indicator\",\"stars\":0,\"language\":\"Python\",\"size\":73},{\"name\":\"nordvpn_wireguard_conf\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/nordvpn_wireguard_conf\",\"stars\":0,\"language\":\"JavaScript\",\"size\":36},{\"name\":\"django_swapi\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/django_swapi\",\"stars\":0,\"language\":\"Python\",\"size\":34},{\"name\":\"MailSender\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MailSender\",\"stars\":0,\"language\":\"Python\",\"size\":5},{\"name\":\"RealEstate\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/RealEstate\",\"stars\":0,\"language\":\"PHP\",\"size\":86},{\"name\":\"MealPlan\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/MealPlan\",\"stars\":0,\"language\":\"Ruby\",\"size\":63},{\"name\":\"HelloSev\",\"description\":\"My First Repo\",\"url\":\"https://github.com/VGeroutskis/HelloSev\",\"stars\":0,\"language\":\"Java\",\"size\":5},{\"name\":\"FinalProject\",\"description\":null,\"url\":\"https://github.com/VGeroutskis/FinalProject\",\"stars\":0,\"language\":\"CSS\",\"size\":1905}],\"skills\":[{\"name\":\"Python\",\"percentage\":92.36068849108383},{\"name\":\"HTML\",\"percentage\":3.4074337746443293},{\"name\":\"TypeScript\",\"percentage\":3.015306181033196},{\"name\":\"CSS\",\"percentage\":1.0937087347426198},{\"name\":\"PHP\",\"percentage\":0.04937477752643847},{\"name\":\"Ruby\",\"percentage\":0.03616989516471655},{\"name\":\"JavaScript\",\"percentage\":0.03444751920449196},{\"name\":\"Java\",\"percentage\":0.0028706266003743295}]}"
+  ]
 }
