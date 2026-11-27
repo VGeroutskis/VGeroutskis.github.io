@@ -1,5 +1,4 @@
 {
-  "adminEmail": "v.geroutskis@gmail.com",
   "name": {
     "el": "Βαλεντίνος Γερούτσκυς",
     "en": "Valentinos Geroutskis"
@@ -514,5 +513,6 @@
         "en": ""
       }
     }
-  ]
+  ],
+  "adminEmailHash": "7b62c820ec6625132979afb4d5e6936356462d2a5477069fb8f58ca0876e9918"
 }
